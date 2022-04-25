@@ -1,0 +1,32 @@
+
+
+\end{document}
+\section{h1 Heading 8-)}
+\subsection{h2 Heading}
+\subsubsection{h3 Heading}
+\paragraph{h4 Heading}
+\subparagraph{h5 Heading}
+\textbf{h6 Heading}
+\subsection{Horizontal Rules}
+\subsection{Typographic replacements}
+\subsection{Emphasis}
+\subsection{Blockquotes}
+\subsection{Lists}
+\subsection{Code}
+\subsection{Tables}
+\subsection{Links}
+\subsection{Images}
+\subsection{Plugins}
+\subsubsection{[Emojies](https://github.com/markdown-it/markdown-it-emoji)}
+\subsubsection{[Subscript](https://github.com/markdown-it/markdown-it-sub) / [Superscript](https://github.com/markdown-it/markdown-it-sup)}
+\subsubsection{[\<ins>](https://github.com/markdown-it/markdown-it-ins)}
+\subsubsection{[\<mark>](https://github.com/markdown-it/markdown-it-mark)}
+\subsubsection{[Footnotes](https://github.com/markdown-it/markdown-it-footnote)}
+\subsubsection{[Definition lists](https://github.com/markdown-it/markdown-it-deflist)}
+\subsubsection{[Abbreviations](https://github.com/markdown-it/markdown-it-abbr)}
+\subsubsection{[Custom containers](https://github.com/markdown-it/markdown-it-container)}
+\documentclass[12pt, a4paper ]{article}
+\usepackage[utf8]{inputenc}
+
+\begin{document}
+
