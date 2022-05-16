@@ -8,5 +8,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="h2-2.1.212" level="project" />
+    <orderEntry type="library" name="CreateDB" level="project" />
   </component>
 </module>
