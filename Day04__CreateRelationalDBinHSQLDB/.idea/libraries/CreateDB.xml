@@ -1,6 +1,8 @@
 <component name="libraryTable">
   <library name="CreateDB">
-    <CLASSES />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../libs/CreateDB/CreateDB.jar!/" />
+    </CLASSES>
     <JAVADOC />
     <SOURCES />
   </library>
